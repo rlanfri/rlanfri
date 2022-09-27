@@ -14,7 +14,7 @@ Want to know more about me? [Check out my portfolio.](coloco aqui mi portfolio)
 
 <br>
 
-<a href="https://github.com/ViveargentinaGIT/ViveargentinaApp>
+<a href="https://github.com/ViveargentinaGIT/ViveargentinaApp">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=ViveargentinaApp&title_color=252525&text_color=252525&icon_color=252525&bg_color=BDB5A3" />
 </a>
 
