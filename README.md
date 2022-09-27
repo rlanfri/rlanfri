@@ -2,7 +2,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=BDB5A3)](rlanfri@gmail.com)
-
+<a href="mailto:elcorreoquequieres@correo.com">Aquí el texto que quieras</a>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=BDB5A3)](https://www.linkedin.com/in/rodrigolanfri/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=BDB5A3)](https://www.instagram.com/rodrigolanfri/)
 
