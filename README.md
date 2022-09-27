@@ -15,7 +15,7 @@ Want to know more about me? [Check out my portfolio.](coloco aqui mi portfolio)
 <br>
 
 <a href="https://github.com/ViveargentinaGIT/viveargentina">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=ViveargentinaApp&title_color=252525&text_color=c9cacc&icon_color=252525&bg_color=BDB5A3" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=ViveargentinaApp&title_color=252525&text_color=252525&icon_color=252525&bg_color=BDB5A3" />
 </a>
 
 <br>
@@ -24,7 +24,7 @@ Want to know more about me? [Check out my portfolio.](coloco aqui mi portfolio)
 
 
 <a href="https://github.com/rlanfri/PI-Food-main">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=PI-Food-main&title_color=252525&text_color=c9cacc&icon_color=252525&bg_color=BDB5A3" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=PI-Food-main&title_color=252525&text_color=252525&icon_color=858585&bg_color=BDB5A3" />
 </a>
 
 <br>
@@ -34,11 +34,11 @@ Want to know more about me? [Check out my portfolio.](coloco aqui mi portfolio)
 <br>
 
 <a href="https://github.com/rlanfri">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlanfri&hide=html,css&title_color=252525&text_color=c9cacc&icon_color=252525&bg_color=BDB5A3"/>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlanfri&hide=html,css&title_color=252525&text_color=252525&icon_color=858585&bg_color=BDB5A3"/>
 </a>
 
 <a href="https://github.com/rlanfri">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rlanfri&show_icons=true&line_height=27&count_private=true&title_color=252525&text_color=c9cacc&icon_color=252525&bg_color=BDB5A3" alt="Rodrigo's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rlanfri&show_icons=true&line_height=27&count_private=true&title_color=252525&text_color=252525&icon_color=858585&bg_color=BDB5A3" alt="Rodrigo's GitHub Stats" />
 </a>
 
 <br>
