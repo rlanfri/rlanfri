@@ -1,4 +1,4 @@
-![Rodrigo's GitHub Banner](https://res.cloudinary.com/dblc1bzmx/image/upload/v1664305316/github%20and%20more/Purple_Illustrated_Theater_Banner_1_hx6jqp.png)
+![Rodrigo's GitHub Banner](https://res.cloudinary.com/dblc1bzmx/image/upload/v1664305481/github%20and%20more/Purple_Illustrated_Theater_Banner_2_nhbr79.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rodrigolanfri/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/rodrigolanfri/)
@@ -15,13 +15,13 @@ Want to know more about me? [Check out my portfolio.](coloco aqui mi portfolio)
 <br>
 
 <a href="https://github.com/ViveargentinaGIT/viveargentina">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=ViveargentinaApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=ViveargentinaApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=BDB5A3" />
 </a>
 
 <br>
 
 <a href="https://github.com/rlanfri/PI-Food-main">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=PI-Food-main&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rlanfri&repo=PI-Food-main&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=BDB5A3" />
 </a>
 
 <br>
@@ -31,11 +31,11 @@ Want to know more about me? [Check out my portfolio.](coloco aqui mi portfolio)
 <br>
 
 <a href="https://github.com/rlanfri">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlanfri&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlanfri&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=BDB5A3"/>
 </a>
 
 <a href="https://github.com/rlanfri">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rlanfri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rodrigo's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rlanfri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=BDB5A3&bg_color=1A2B34" alt="Rodrigo's GitHub Stats" />
 </a>
 
 <br>
