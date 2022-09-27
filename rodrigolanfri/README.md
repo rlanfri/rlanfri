@@ -1,8 +1,7 @@
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
-[!(https://unsplash.com/es/fotos/9Zjd7PE_FRM)](https://twitter.com/BraydonCoyer)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rodrigolanfri/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.instagram.com/in/rodrigolanfri/)
 
 Hey there 👋
 
