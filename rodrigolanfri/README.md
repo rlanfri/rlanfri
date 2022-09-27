@@ -13,23 +13,11 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 ## 📝 Latest Blog Posts
 
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Do Interview Kickstart Courses Live Up to the Cost?](https://braydoncoyer.dev/blog/do-interview-kickstart-courses-live-up-to-the-cost)
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
-- [Enable Autocomplete for Tailwind CSS in VSCode](https://braydoncoyer.dev/blog/enable-autocomplete-for-tailwind-css-in-vscode)
-- [What Makes a Unit Test Valuable?](https://braydoncoyer.dev/blog/what-makes-a-unit-test-valuable)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
 ## 📌 Pinned Repositories
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/ViveargentinaGIT/viveargentina">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
