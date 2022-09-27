@@ -1,11 +1,11 @@
-![Rodrigo's GitHub Banner](https://res.cloudinary.com/dblc1bzmx/image/upload/v1664304255/github%20and%20more/Purple_Illustrated_Theater_Banner_sgtfsv.png)
+![Rodrigo's GitHub Banner](https://res.cloudinary.com/dblc1bzmx/image/upload/v1664305316/github%20and%20more/Purple_Illustrated_Theater_Banner_1_hx6jqp.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rodrigolanfri/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/rodrigolanfri/)
 
 Hey there 👋
 
-I’m Rodrigo, a junior full-stack developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Rodrigo, a junior full-stack developer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into websites or applications that run blazing fast.
 
 Want to know more about me? [Check out my portfolio.](coloco aqui mi portfolio)
 
