@@ -1,7 +1,8 @@
 ![Rodrigo's GitHub Banner](https://res.cloudinary.com/dblc1bzmx/image/upload/v1664305481/github%20and%20more/Purple_Illustrated_Theater_Banner_2_nhbr79.png)
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=BDB5A3)](rlanfri@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=BDB5A3)](rlanfri@gmail.com)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=BDB5A3)](https://www.linkedin.com/in/rodrigolanfri/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=BDB5A3)](https://www.instagram.com/rodrigolanfri/)
 
